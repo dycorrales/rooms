@@ -1,0 +1,20 @@
+{
+	
+	"rooms"
+		[
+			{
+				"roomStatus": "Dirty",
+				"housekeeperStatus": "Occupied",
+				"roomNumber": 101,
+				"roomFloor": 1,
+				"roomType": "Single"
+			},
+			{
+				"roomStatus": "Clean",
+				"housekeeperStatus": "Vacant",
+				"roomNumber": 102,
+				"roomFloor": 1,
+				"roomType": "Triple"
+			}
+		]
+}
